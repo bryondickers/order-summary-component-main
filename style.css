@@ -26,6 +26,8 @@ body{
 }
 
 main{
+    
+    margin-block-start: 1rem;
     border-radius: 0.9rem;
     inline-size: 90%;
     max-inline-size: 23.4rem;
@@ -133,7 +135,10 @@ h1{
         background-repeat: no-repeat;
         background-position:top;
         background-size: 100px 400px;
-        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+         align-items: center;  
     }
     
 }
