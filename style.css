@@ -22,7 +22,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: var(--pale-blue);
-    background-image: url(./images/pattern-background-mobile.svg);
+    background-image: url("./images/pattern-background-mobile.svg");
     background-repeat: no-repeat;
     background-size: 100% 50%;
 
