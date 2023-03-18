@@ -14,8 +14,8 @@ font-size:1em;
 }
 
 body{
-    position: absolute;
-    inline-size: 100%;
+    position: relative;
+   
     block-size: 100%;
     display: flex;
     flex-direction: column;
